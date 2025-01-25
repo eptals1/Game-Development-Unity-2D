@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05114427-26D9-800D-239B-08EB712E0531}|Assembly-CSharp.csproj|c:\\users\\acer\\desktop\\game dev\\talaba-finalproject-2d stick man fight\\assets\\stick fight finale 2d\\_scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05114427-26D9-800D-239B-08EB712E0531}|Assembly-CSharp.csproj|solutionrelative:assets\\stick fight finale 2d\\_scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05114427-26D9-800D-239B-08EB712E0531}|Assembly-CSharp.csproj|c:\\users\\acer\\desktop\\game dev\\talaba-finalproject-2d stick man fight\\assets\\textmesh pro\\shaders\\tmp_sdf-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{05114427-26D9-800D-239B-08EB712E0531}|Assembly-CSharp.csproj|solutionrelative:assets\\textmesh pro\\shaders\\tmp_sdf-mobile.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05114427-26D9-800D-239B-08EB712E0531}|Assembly-CSharp.csproj|C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\assets\\stick fight finale 2d\\_scripts\\fader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05114427-26D9-800D-239B-08EB712E0531}|Assembly-CSharp.csproj|solutionrelative:assets\\stick fight finale 2d\\_scripts\\fader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05114427-26D9-800D-239B-08EB712E0531}|Assembly-CSharp.csproj|C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\assets\\stick fight finale 2d\\_scripts\\scripts for bot\\botmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05114427-26D9-800D-239B-08EB712E0531}|Assembly-CSharp.csproj|solutionrelative:assets\\stick fight finale 2d\\_scripts\\scripts for bot\\botmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05114427-26D9-800D-239B-08EB712E0531}|Assembly-CSharp.csproj|C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\assets\\stick fight finale 2d\\_scripts\\aidkitscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05114427-26D9-800D-239B-08EB712E0531}|Assembly-CSharp.csproj|solutionrelative:assets\\stick fight finale 2d\\_scripts\\aidkitscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05114427-26D9-800D-239B-08EB712E0531}|Assembly-CSharp.csproj|C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\assets\\stick fight finale 2d\\_scripts\\scripts for bot\\bothealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05114427-26D9-800D-239B-08EB712E0531}|Assembly-CSharp.csproj|solutionrelative:assets\\stick fight finale 2d\\_scripts\\scripts for bot\\bothealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05114427-26D9-800D-239B-08EB712E0531}|Assembly-CSharp.csproj|C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\assets\\stick fight finale 2d\\_scripts\\scripts for bot\\botattackscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05114427-26D9-800D-239B-08EB712E0531}|Assembly-CSharp.csproj|solutionrelative:assets\\stick fight finale 2d\\_scripts\\scripts for bot\\botattackscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05114427-26D9-800D-239B-08EB712E0531}|Assembly-CSharp.csproj|C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\assets\\stick fight finale 2d\\_scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05114427-26D9-800D-239B-08EB712E0531}|Assembly-CSharp.csproj|solutionrelative:assets\\stick fight finale 2d\\_scripts\\playerattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05114427-26D9-800D-239B-08EB712E0531}|Assembly-CSharp.csproj|C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\assets\\stick fight finale 2d\\_scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05114427-26D9-800D-239B-08EB712E0531}|Assembly-CSharp.csproj|solutionrelative:assets\\stick fight finale 2d\\_scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05114427-26D9-800D-239B-08EB712E0531}|Assembly-CSharp.csproj|C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\assets\\stick fight finale 2d\\_scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05114427-26D9-800D-239B-08EB712E0531}|Assembly-CSharp.csproj|solutionrelative:assets\\stick fight finale 2d\\_scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05114427-26D9-800D-239B-08EB712E0531}|Assembly-CSharp.csproj|C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\assets\\stick fight finale 2d\\_scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05114427-26D9-800D-239B-08EB712E0531}|Assembly-CSharp.csproj|solutionrelative:assets\\stick fight finale 2d\\_scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05114427-26D9-800D-239B-08EB712E0531}|Assembly-CSharp.csproj|C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\assets\\stick fight finale 2d\\_scripts\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05114427-26D9-800D-239B-08EB712E0531}|Assembly-CSharp.csproj|solutionrelative:assets\\stick fight finale 2d\\_scripts\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\Assets\\Stick Fight Finale 2D\\_Scripts\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Stick Fight Finale 2D\\_Scripts\\PauseMenu.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\Assets\\Stick Fight Finale 2D\\_Scripts\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Stick Fight Finale 2D\\_Scripts\\PauseMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:04:35.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TMP_SDF-Mobile.shader",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "RelativeDocumentMoniker": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "RelativeToolTip": "Assets\\TextMesh Pro\\Shaders\\TMP_SDF-Mobile.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2024-12-03T07:53:58.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fader.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\Assets\\Stick Fight Finale 2D\\_Scripts\\Fader.cs",
+              "RelativeDocumentMoniker": "Assets\\Stick Fight Finale 2D\\_Scripts\\Fader.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\Assets\\Stick Fight Finale 2D\\_Scripts\\Fader.cs",
+              "RelativeToolTip": "Assets\\Stick Fight Finale 2D\\_Scripts\\Fader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:57:57.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\Assets\\Stick Fight Finale 2D\\_Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Stick Fight Finale 2D\\_Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\Assets\\Stick Fight Finale 2D\\_Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Stick Fight Finale 2D\\_Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAhwGsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:40:57.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerAttack.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\Assets\\Stick Fight Finale 2D\\_Scripts\\PlayerAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Stick Fight Finale 2D\\_Scripts\\PlayerAttack.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\Assets\\Stick Fight Finale 2D\\_Scripts\\PlayerAttack.cs",
+              "RelativeToolTip": "Assets\\Stick Fight Finale 2D\\_Scripts\\PlayerAttack.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAgwIkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T03:27:26.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\Assets\\Stick Fight Finale 2D\\_Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Stick Fight Finale 2D\\_Scripts\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\Assets\\Stick Fight Finale 2D\\_Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Stick Fight Finale 2D\\_Scripts\\PlayerHealth.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T23:34:29.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\Assets\\Stick Fight Finale 2D\\_Scripts\\MenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Stick Fight Finale 2D\\_Scripts\\MenuController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\Assets\\Stick Fight Finale 2D\\_Scripts\\MenuController.cs",
+              "RelativeToolTip": "Assets\\Stick Fight Finale 2D\\_Scripts\\MenuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:54:34.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameOverManager.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\Assets\\Stick Fight Finale 2D\\_Scripts\\GameOverManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Stick Fight Finale 2D\\_Scripts\\GameOverManager.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\Assets\\Stick Fight Finale 2D\\_Scripts\\GameOverManager.cs",
+              "RelativeToolTip": "Assets\\Stick Fight Finale 2D\\_Scripts\\GameOverManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T13:44:47.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AidKitScript.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\Assets\\Stick Fight Finale 2D\\_Scripts\\AidKitScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Stick Fight Finale 2D\\_Scripts\\AidKitScript.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\Assets\\Stick Fight Finale 2D\\_Scripts\\AidKitScript.cs",
+              "RelativeToolTip": "Assets\\Stick Fight Finale 2D\\_Scripts\\AidKitScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:01:03.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BotHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\Assets\\Stick Fight Finale 2D\\_Scripts\\Scripts for Bot\\BotHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Stick Fight Finale 2D\\_Scripts\\Scripts for Bot\\BotHealth.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\Assets\\Stick Fight Finale 2D\\_Scripts\\Scripts for Bot\\BotHealth.cs",
+              "RelativeToolTip": "Assets\\Stick Fight Finale 2D\\_Scripts\\Scripts for Bot\\BotHealth.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAcwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:29:27.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BotManager.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\Assets\\Stick Fight Finale 2D\\_Scripts\\Scripts for Bot\\BotManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Stick Fight Finale 2D\\_Scripts\\Scripts for Bot\\BotManager.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\Assets\\Stick Fight Finale 2D\\_Scripts\\Scripts for Bot\\BotManager.cs",
+              "RelativeToolTip": "Assets\\Stick Fight Finale 2D\\_Scripts\\Scripts for Bot\\BotManager.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAwwFQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:44:02.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BotAttackScript.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\Assets\\Stick Fight Finale 2D\\_Scripts\\Scripts for Bot\\BotAttackScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Stick Fight Finale 2D\\_Scripts\\Scripts for Bot\\BotAttackScript.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Game dev\\Talaba-FinalProject-2D Stick Man Fight\\Assets\\Stick Fight Finale 2D\\_Scripts\\Scripts for Bot\\BotAttackScript.cs",
+              "RelativeToolTip": "Assets\\Stick Fight Finale 2D\\_Scripts\\Scripts for Bot\\BotAttackScript.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAA5wDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:47:03.274Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
